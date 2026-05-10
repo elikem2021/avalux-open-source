@@ -1,3 +1,5 @@
+[![Maintained by Avalux](https://img.shields.io/badge/Maintained%20by-Avalux.io-3b82f6?style=flat-square)](https://avalux.io)
+
 # Avalux — Open Source
 
 > Hub for the open-source automation toolkits we maintain at [Avalux](https://avalux.io).
